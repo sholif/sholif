@@ -10,7 +10,6 @@
 📞 Phone: 01970732073
 
 
--😄 Pronouns: Emon
 
 -⚡🚀 Fun fact: I love automating things and making apps more efficient!
 
