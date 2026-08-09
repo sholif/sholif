@@ -67,8 +67,8 @@ As a passionate **Flutter Developer**, I'm continuously learning, solving real-w
 
 ## 📫 Let's Connect
 
-* **Portfolio:** [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
-* **LinkedIn:** [Sholiful Islam Emon](YOUR_LINKEDIN_URL)
+* **Portfolio:** [Comming soon](YOUR_PORTFOLIO_URL)
+* **LinkedIn:** [Sholiful Islam Emon](https://www.linkedin.com/in/emondev/)
 * **Email:** [sholifulislamemon@gmail.com](mailto:sholifulislamemon@gmail.com)
 * **Facebook:** [sholifulislamemon](https://www.facebook.com/sholifulislamemon)
 * **GitHub:** [Sholiful Islam Emon](https://github.com/YOUR_GITHUB_USERNAME)
