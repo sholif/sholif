@@ -12,7 +12,7 @@ As a passionate **Flutter Developer**, I'm continuously learning, solving real-w
 * 🎯 **Focus:** Cross-Platform Mobile Application Development & Flutter Engineering
 * 💼 **Role:** Mid-Level Flutter Developer
 * 🧑‍💻 **Experience:** 2+ Years in Flutter Development
-* 👥 **International Clients:** 15+ Clients
+* 👥 **International Clients:** 25+ Clients
 * ⚡ **Quote:** *"I don’t just build apps, I craft experiences."*
 
 ---
