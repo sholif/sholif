@@ -77,9 +77,11 @@ As a passionate **Flutter Developer**, I'm continuously learning, solving real-w
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sholif/sholif/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/sholif/sholif/main/dist/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
 
 ---
 
