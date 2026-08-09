@@ -63,6 +63,16 @@ As a passionate **Flutter Developer**, I'm continuously learning, solving real-w
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge\&logo=xcode\&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge\&logo=clickup\&logoColor=white)
 
+
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholif&bg_color=0d1117&color=00f5ff&line=00ff88&point=ffffff&area=true&hide_border=true" />
+  </a>
+</p>
+
+
+
 ---
 
 ## 📫 Let's Connect
