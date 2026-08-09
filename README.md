@@ -1,395 +1,84 @@
-# 👋 Hi, I'm Sholiful Islam Emon
+# Hi there, I'm **Sholiful Islam Emon** 👋
 
-### 🚀 Mid-Level Flutter Developer | Mobile App Developer
-
-I don't just build apps — I create **smooth, scalable, and user-focused mobile experiences**.
-
-I'm a **Mid-Level Flutter Developer** specializing in building cross-platform mobile applications using **Flutter & Dart**. I have hands-on experience working with real-world applications, third-party API integrations, Firebase services, authentication systems, subscriptions, maps, real-time features, and production deployments.
-
-I enjoy turning ideas into reliable mobile applications and solving complex technical problems throughout the development lifecycle.
+### *I don’t just build apps, I craft experiences.* 🚀
 
 ---
 
-## 👨‍💻 About Me
+## 😇 About Me
 
-* 📱 Mid-Level **Flutter Developer** focused on Android & iOS application development
-* 🚀 Experienced in building and maintaining **production-ready mobile applications**
-* 💙 Strong knowledge of **Flutter & Dart**
-* 🧠 Experienced with **GetX, Provider & reactive state management**
-* 🔥 Hands-on experience with **Firebase Authentication, Analytics, Crashlytics & Cloud services**
-* 🌐 Experienced in integrating **REST APIs** using Dio and HTTP clients
-* 🗺️ Experience with **Google Maps, markers, location services & map-based features**
-* 🔐 Implemented **Google Login, Apple Login, Face Verification & Fingerprint Authentication**
-* 💳 Experienced with **RevenueCat subscription & in-app purchase integrations**
-* 💬 Worked with **real-time messaging and notification systems**
-* 📦 Experienced with **SQLite, Drift, GetStorage & SharedPreferences**
-* 🍎 Experience deploying applications through **App Store Connect & TestFlight**
-* 🤖 Experience deploying applications through **Google Play Console**
-* 🧪 Experienced in debugging release builds and production issues
-* 👥 Worked with **15+ international clients**
-* 📚 Interested in **Machine Learning, Artificial Intelligence & modern development tools**
-* 🤖 Comfortable using **AI-powered development tools** to improve productivity
+As a passionate **Flutter Developer**, I'm continuously learning, solving real-world problems, and building smooth, scalable, and user-friendly mobile applications. I specialize in cross-platform mobile application development with **Flutter & Dart**, while working with modern technologies, APIs, Firebase, databases, and third-party integrations.
+
+* 📍 **Based in:** Dhaka, Bangladesh
+* 🎯 **Focus:** Cross-Platform Mobile Application Development & Flutter Engineering
+* 💼 **Role:** Mid-Level Flutter Developer
+* 🧑‍💻 **Experience:** 2+ Years in Flutter Development
+* 👥 **International Clients:** 15+ Clients
+* ⚡ **Quote:** *"I don’t just build apps, I craft experiences."*
 
 ---
 
-## 🛠️ Tech Stack
-
-### ◤ MOBILE DEVELOPMENT ◢
-
-`Flutter` `Dart` `Android` `iOS` `Responsive UI` `Material 3`
-
-### ◤ STATE MANAGEMENT ◢
-
-`GetX` `Provider` `RxDart`
-
-### ◤ BACKEND & APIs ◢
-
-`REST API` `Dio` `JSON` `API Integration` `Authentication` `Custom Backend`
-
-### ◤ DATABASE & LOCAL STORAGE ◢
-
-`SQLite` `Drift` `GetStorage` `SharedPreferences`
-
-### ◤ FIREBASE ◢
-
-`Firebase Authentication` `Firebase Analytics` `Firebase Crashlytics` `Firebase Cloud Messaging`
-
-### ◤ AUTHENTICATION & SECURITY ◢
-
-`Google Sign-In` `Apple Sign-In` `Face Verification` `Fingerprint Authentication`
-
-### ◤ MAP & LOCATION ◢
-
-`Google Maps` `Location Services` `Markers` `Map Integration`
-
-### ◤ SUBSCRIPTION & PAYMENT ◢
-
-`RevenueCat` `In-App Purchase` `Subscription Management` `Paywalls`
-
-### ◤ DEPLOYMENT ◢
-
-`App Store Connect` `TestFlight` `Google Play Console` `iOS Distribution` `Android App Bundle`
-
-### ◤ DEVELOPMENT TOOLS ◢
-
-`Git` `GitHub` `Android Studio` `Visual Studio Code` `Xcode` `ClickUp`
-
-### ◤ AI & PRODUCTIVITY ◢
-
-`AI Development Tools` `AI-assisted Coding` `Debugging` `Documentation`
-
----
-
-## 🔥 Firebase Experience
-
-My Firebase experience includes:
-
-* 🔐 Firebase Authentication
-* 📊 Firebase Analytics
-* 💥 Firebase Crashlytics
-* 🔔 Firebase Cloud Messaging
-* 🔑 Google Authentication
-* 🍎 Apple Authentication
-* 📈 Analytics event tracking
-* 🐛 Production crash investigation
-* 📱 Push notification implementation
-
----
-
-## 💳 Subscription & RevenueCat Experience
-
-Experienced in implementing mobile subscription systems using **RevenueCat**, including:
-
-* Subscription products
-* Paywall integration
-* Subscription status management
-* Customer entitlement handling
-* Restore purchases
-* Manage subscription flow
-* App Store subscription configuration
-* TestFlight subscription testing
-* RevenueCat SDK integration
-* Subscription-related debugging
-
----
-
-## 🗺️ Google Maps & Location Experience
-
-Hands-on experience implementing map-based mobile features:
-
-* Google Maps integration
-* Current location
-* Location permissions
-* Custom markers
-* Marker optimization
-* Map interaction
-* Location-based features
-* API key configuration
-* Android & iOS configuration
-* Release-build troubleshooting
-
----
-
-## 🔐 Authentication Experience
-
-Implemented multiple authentication methods in Flutter applications:
-
-* Google Login
-* Apple Login
-* Email/Password Authentication
-* Face Verification
-* Fingerprint Authentication
-* Secure session management
-* Token-based authentication
-* API authentication
-
----
-
-## 📱 Production & Deployment Experience
-
-Experienced with the complete mobile application deployment lifecycle.
-
-### 🍎 iOS
-
-* Xcode configuration
-* Apple Developer setup
-* Certificates & provisioning
-* App Store Connect
-* TestFlight
-* iOS release builds
-* dSYM / Crashlytics troubleshooting
-* App Store review issue resolution
-* Minimum iOS deployment target configuration
-
-### 🤖 Android
-
-* Android Studio
-* Gradle configuration
-* Android SDK configuration
-* Release APK
-* Android App Bundle (AAB)
-* Google Play Console
-* Production deployment
-* Build & dependency troubleshooting
-
----
-
-## 🏗️ Architecture & Development Practices
-
-I have experience working with structured and scalable Flutter applications using:
-
-* Feature-based architecture
-* Clean Architecture concepts
-* Repository pattern
-* Service layer
-* Dependency Injection
-* GetIt
-* GetX
-* Provider
-* Reactive programming
-* Reusable widgets
-* Responsive UI
-* API abstraction
-* Local caching
-* Error handling
-* Production debugging
-
----
-
-## 💼 Professional Experience
-
-### ◈ Mid-Level Flutter Developer — Betopia Group
-
-**Nov 2024 – Present**
-
-* Developing and maintaining production-ready Flutter applications
-* Building responsive Android & iOS interfaces
-* Integrating REST APIs and third-party services
-* Implementing state management using GetX and Provider
-* Working with Firebase Authentication, Analytics and Crashlytics
-* Implementing Google Maps and location-based features
-* Implementing Google and Apple authentication
-* Working with biometric authentication features
-* Implementing RevenueCat subscription systems
-* Handling real-time messaging features
-* Debugging Android and iOS production issues
-* Managing TestFlight builds and App Store deployment
-* Managing Google Play release builds
-* Working directly with international clients
-* Troubleshooting App Store and Play Store submission issues
-* Using Git and GitHub for version control and collaboration
-
-### ◈ BD Calling Intern
-
-**Jun 2024 – Oct 2024**
-
-* Communicated with clients and potential customers
-* Managed client communication and requirements
-* Improved professional communication and customer-handling skills
-
----
-
-## 🚀 Selected Project Experience
-
-### 📔 Journey Jotter
-
-A journal and personal journey application developed using Flutter.
-
-**Technology & Features:**
-
-* Flutter & Dart
-* GetX
-* RxDart
-* GetIt
-* Dio
-* Firebase Analytics
-* Firebase Crashlytics
-* RevenueCat
-* SQLite / Drift
-* GetStorage
-* SharedPreferences
-* Push Notifications
-* Subscription & Paywall
-* REST API
-* Clean Architecture
-* TestFlight deployment
-
----
-
-### 🗺️ Map-Based Applications
-
-Worked on Flutter applications involving:
-
-* Google Maps
-* Location permissions
-* Current location
-* Custom markers
-* API-based map data
-* Marker optimization
-* Location accuracy handling
-* Android & iOS map configuration
-
----
-
-### 💬 Real-Time Messaging Applications
-
-Worked with messaging-related features including:
-
-* Real-time messaging
-* Push notifications
-* Message status
-* User authentication
-* API integration
-* Firebase services
-
----
-
-### 💳 Subscription-Based Applications
-
-Implemented subscription functionality using:
-
-* RevenueCat
-* App Store subscriptions
-* Google Play subscriptions
-* Paywalls
-* Entitlements
-* Restore purchases
-* Subscription status
-* Manage subscription
-
----
-
-## 📊 Core Expertise
-
-| Area                  | Skills                                         |
-| --------------------- | ---------------------------------------------- |
-| Mobile Development    | Flutter, Dart, Android, iOS                    |
-| State Management      | GetX, Provider, RxDart                         |
-| Architecture          | Clean Architecture, Feature-Based Architecture |
-| Backend Communication | REST API, Dio, JSON                            |
-| Database              | SQLite, Drift, GetStorage, SharedPreferences   |
-| Firebase              | Auth, Analytics, Crashlytics, FCM              |
-| Authentication        | Google, Apple, Face, Fingerprint               |
-| Maps                  | Google Maps, Location, Markers                 |
-| Subscription          | RevenueCat, In-App Purchase                    |
-| Deployment            | TestFlight, App Store Connect, Play Console    |
-| Version Control       | Git, GitHub                                    |
-| Project Management    | ClickUp                                        |
-| IDE                   | Android Studio, VS Code, Xcode                 |
-| AI                    | AI-assisted development & productivity tools   |
-
----
-
-## 📈 What I'm Currently Improving
-
-`Advanced Flutter Architecture`
-
-`Performance Optimization`
-
-`Advanced State Management`
-
-`Clean Architecture`
-
-`App Performance`
-
-`Firebase Analytics`
-
-`Crashlytics`
-
-`RevenueCat`
-
-`CI/CD`
-
-`AI Integration`
-
-`Machine Learning`
-
-`Artificial Intelligence`
-
----
-
-## 🎯 My Development Philosophy
-
-> **Build clean. Build scalable. Build for real users.**
-
-I believe a good application is not only about making the UI look beautiful.
-
-It should also be:
-
-* ⚡ Fast
-* 🧩 Maintainable
-* 🔒 Secure
-* 📱 Responsive
-* 🧠 Scalable
-* 🐛 Easy to debug
-* 👨‍💻 Easy for developers to maintain
-* ❤️ Easy for users to understand
+## 🛠️ Tech Stack & Tools
+
+### **Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=ios\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge\&logo=mui\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+
+### **State Management & Architecture**
+
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
+![RxDart](https://img.shields.io/badge/RxDart-0175C2?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge)
+
+### **Backend & Database**
+
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Drift](https://img.shields.io/badge/Drift-0175C2?style=for-the-badge)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge)
+
+### **Authentication & Integrations**
+
+![Google](https://img.shields.io/badge/Google%20Sign--In-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple%20Sign--In-000000?style=for-the-badge\&logo=apple\&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-000000?style=for-the-badge)
+![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FF0000?style=for-the-badge\&logo=firebase\&logoColor=white)
+
+### **Tools & Management**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge\&logo=xcode\&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge\&logo=clickup\&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always interested in connecting with developers, clients, and people working on interesting technology projects.
-
-* 📧 **Email:** [sholifulislamemon@gmail.com](mailto:sholifulislamemon@gmail.com)
-* 📱 **Phone:** +8801970732073
-* 📍 **Location:** Dhaka, Bangladesh
-* 💼 **LinkedIn:** [Sholiful Islam Emon](https://www.linkedin.com/)
-* 🌐 **Portfolio:** [My Portfolio](#)
-* 💻 **GitHub:** [Sholiful Islam Emon](https://github.com/)
+* **Portfolio:** [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
+* **LinkedIn:** [Sholiful Islam Emon](YOUR_LINKEDIN_URL)
+* **Email:** [sholifulislamemon@gmail.com](mailto:sholifulislamemon@gmail.com)
+* **Facebook:** [sholifulislamemon](https://www.facebook.com/sholifulislamemon)
+* **GitHub:** [Sholiful Islam Emon](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-## ⚡ Fun Fact
+<p align="center">
+  <b>🚀 Flutter Developer | 📱 Mobile App Developer | 💙 Dart Enthusiast</b>
+</p>
 
-> I enjoy debugging Flutter applications almost as much as building them. 😄
-
----
-
-<h3 align="center">
-  🚀 Flutter Developer | 📱 Mobile App Developer | 💙 Dart Enthusiast
-</h3>
-
-<h4 align="center">
-  Thanks for visiting my GitHub profile! ⭐
-</h4>
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
